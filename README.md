@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Littlechay
-- 👀 I’m interested in marine electronics, SignalK, networking, systems monitoring and information display
-- 🌱 I’m currently learning Python, influx, Grafana
+- 👀 I’m interested in marine electronics, SignalK, networking, systems monitoring, signal processing, radio, and information display
+- 🌱 I’m currently learning C and also brushing up on my stack development
 - 💞️ I’m looking to collaborate on chart plotter software
 - 📫 How to reach me here @littlechay
 <!---
